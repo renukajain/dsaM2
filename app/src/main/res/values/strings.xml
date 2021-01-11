@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ejemplo DSA</string>
+    <string name="texto_principal">Hola mundo desde strings.xml</string>
+</resources>
