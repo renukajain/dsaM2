@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Ejemplo DSA</string>
-    <string name="texto_principal">Hola mundo desde strings.xml</string>
+    <string name="app_name">Minimo 2 DSA</string>
+    <string name="texto_principal">Escribe aqui el username de GitHub</string>
+    <string name="bttn">Search</string>
 </resources>
